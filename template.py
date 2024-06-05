@@ -27,8 +27,7 @@ list_of_files = [
     "setup.cfg",       # These files are required only when python package is being created
     "pyproject.toml",  #
     "tox.ini",         #Used for Testing of a project locally
-    "research/trials.ipynb",  #Trial files of whatever we want to test in an ipynb file
-    "example.py"
+    "research/trials.ipynb"  #Trial files of whatever we want to test in an ipynb file
 ]
 
 for filepath in list_of_files:
